@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">People10 App</string>
+    <string name="title_activity_main">People10 App</string>
+    <string name="title_activity_store_information">Store Information</string>
+</resources>
